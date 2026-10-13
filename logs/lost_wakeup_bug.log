@@ -1,0 +1,2 @@
+ERROR:root:LOST WAKEUP: notify happened before wait
+INFO:root:EXPECTED BUG: ready=True, wait timed out

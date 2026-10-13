@@ -1,0 +1,2 @@
+ERROR:root:INVARIANT FAILED: Чтение из пустого буфера после wait
+INFO:root:mode=if consumed=1 violations=1

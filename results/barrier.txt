@@ -1,0 +1,13 @@
+T4: phase 1 done
+T3: phase 1 done
+T2: phase 1 done
+T1: phase 1 done
+T4: phase 2 done
+T3: phase 2 done
+T2: phase 2 done
+T1: phase 2 done
+T4: phase 3 done
+T3: phase 3 done
+T2: phase 3 done
+T1: phase 3 done
+PASS: 4 threads, 3 phases, violations=0

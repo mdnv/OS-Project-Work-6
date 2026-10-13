@@ -1,0 +1,2 @@
+mode=if consumed=1 violations=1
+EXPECTED BUG: empty buffer after wait

@@ -1,0 +1,3 @@
+Expected: 4000
+Actual:   4000
+PASS: counter invariant

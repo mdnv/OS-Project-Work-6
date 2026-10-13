@@ -1,0 +1,4 @@
+Expected: 4000
+Actual:   1000
+Lost:     3000
+RACE DETECTED (expected demonstration)
